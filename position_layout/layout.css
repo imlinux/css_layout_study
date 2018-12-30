@@ -10,12 +10,12 @@
     left: 0px;
     bottom: 0px;
     border: solid;
-    width: 200px;
+    width: 10%;
 }
 
 .content {
     position: absolute;
-    left: 200px;
+    left: 10%;
     right: 0px;
     border: solid;
 }

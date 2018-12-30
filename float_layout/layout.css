@@ -1,0 +1,18 @@
+
+.nav, .content, .footer {
+    border: solid;
+}
+
+.nav {
+    float: left;
+    width: 10%;
+    height: 800px;
+}
+
+.content {
+    margin-left: 10%;
+}
+
+.footer {
+    clear: both;
+}
